@@ -1,0 +1,3 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-001\bin\Debug\ConcurrentCollection-001.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-001\obj\Debug\ConcurrentCollection-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-001\obj\Debug\ConcurrentCollection-001.pdb

@@ -1,0 +1,3 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-003\bin\Debug\Thread-003.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-003\obj\Debug\Thread-003.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-003\obj\Debug\Thread-003.pdb

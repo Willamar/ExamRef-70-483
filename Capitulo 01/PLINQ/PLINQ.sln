@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Using AsParallel", "PLINQ-001\001 - Using AsParallel.csproj", "{56BBCA79-4CCE-4B32-92A8-C71E902E6D77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Unordered parallel query", "PLINQ-002\002 - Unordered parallel query.csproj", "{99CEE615-2969-4D0F-9DD1-1CB0154DEDBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Ordered parallel query", "PLINQ-003\003 - Ordered parallel query.csproj", "{DD858C54-D6F6-4440-AFBC-13A1BE1F5B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Making a parallel query sequential", "PLINQ-004\004 - Making a parallel query sequential.csproj", "{52D11D71-5230-41F3-BBB7-052873DD07E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Using ForAll", "PLINQ-005\005 - Using ForAll.csproj", "{E1DDBDB9-ACF2-40AD-9174-55AB62BFC50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ-006", "PLINQ-006\PLINQ-006.csproj", "{E9F0B9B3-ABF1-4223-8841-EF573106F892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56BBCA79-4CCE-4B32-92A8-C71E902E6D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BBCA79-4CCE-4B32-92A8-C71E902E6D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BBCA79-4CCE-4B32-92A8-C71E902E6D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BBCA79-4CCE-4B32-92A8-C71E902E6D77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CEE615-2969-4D0F-9DD1-1CB0154DEDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CEE615-2969-4D0F-9DD1-1CB0154DEDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CEE615-2969-4D0F-9DD1-1CB0154DEDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CEE615-2969-4D0F-9DD1-1CB0154DEDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD858C54-D6F6-4440-AFBC-13A1BE1F5B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD858C54-D6F6-4440-AFBC-13A1BE1F5B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD858C54-D6F6-4440-AFBC-13A1BE1F5B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD858C54-D6F6-4440-AFBC-13A1BE1F5B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D11D71-5230-41F3-BBB7-052873DD07E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D11D71-5230-41F3-BBB7-052873DD07E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D11D71-5230-41F3-BBB7-052873DD07E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D11D71-5230-41F3-BBB7-052873DD07E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DDBDB9-ACF2-40AD-9174-55AB62BFC50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DDBDB9-ACF2-40AD-9174-55AB62BFC50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DDBDB9-ACF2-40AD-9174-55AB62BFC50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DDBDB9-ACF2-40AD-9174-55AB62BFC50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F0B9B3-ABF1-4223-8841-EF573106F892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F0B9B3-ABF1-4223-8841-EF573106F892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F0B9B3-ABF1-4223-8841-EF573106F892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F0B9B3-ABF1-4223-8841-EF573106F892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

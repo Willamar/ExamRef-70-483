@@ -1,0 +1,13 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\bin\Debug\AsyncAWait-003.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\bin\Debug\AsyncAWait-003.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\bin\Debug\AsyncAWait-003.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\AsyncAWait-003.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\MainWindow.baml
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\MainWindow.g.cs
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\App.g.cs
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\AsyncAWait-003_MarkupCompile.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\AsyncAWait-003.g.resources
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\AsyncAWait_003.Properties.Resources.resources
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\AsyncAWait-003.csproj.GenerateResource.Cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\AsyncAWait-003.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-003\obj\Debug\AsyncAWait-003.pdb

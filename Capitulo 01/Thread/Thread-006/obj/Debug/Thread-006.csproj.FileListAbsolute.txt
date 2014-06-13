@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-006\bin\Debug\Thread-006.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-006\bin\Debug\Thread-006.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-006\bin\Debug\Thread-006.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-006\obj\Debug\Thread-006.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-006\obj\Debug\Thread-006.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Thread\Thread-006\obj\Debug\Thread-006.pdb

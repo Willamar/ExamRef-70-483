@@ -1,0 +1,6 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-004\bin\Debug\PLINQ-004.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-004\bin\Debug\PLINQ-004.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-004\bin\Debug\PLINQ-004.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-004\obj\Debug\PLINQ-004.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-004\obj\Debug\PLINQ-004.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-004\obj\Debug\PLINQ-004.pdb

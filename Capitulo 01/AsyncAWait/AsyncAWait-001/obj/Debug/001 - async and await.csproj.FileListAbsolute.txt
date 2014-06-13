@@ -1,0 +1,6 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-001\bin\Debug\AsyncAWait-001.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-001\bin\Debug\AsyncAWait-001.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-001\bin\Debug\AsyncAWait-001.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-001\obj\Debug\001 - async and await.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-001\obj\Debug\AsyncAWait-001.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-001\obj\Debug\AsyncAWait-001.pdb

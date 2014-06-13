@@ -1,0 +1,3 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\Thread\Thread-007\bin\Debug\Thread-007.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\Thread\Thread-007\obj\Debug\Thread-007.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\Thread\Thread-007\obj\Debug\Thread-007.pdb

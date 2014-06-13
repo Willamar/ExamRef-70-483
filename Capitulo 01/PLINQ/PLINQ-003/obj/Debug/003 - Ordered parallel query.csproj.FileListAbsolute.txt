@@ -1,0 +1,6 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-003\bin\Debug\PLINQ-003.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-003\bin\Debug\PLINQ-003.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-003\bin\Debug\PLINQ-003.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-003\obj\Debug\003 - Ordered parallel query.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-003\obj\Debug\PLINQ-003.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-003\obj\Debug\PLINQ-003.pdb

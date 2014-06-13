@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\PLINQ\PLINQ-002\bin\Debug\PLINQ-002.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\PLINQ\PLINQ-002\bin\Debug\PLINQ-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\PLINQ\PLINQ-002\bin\Debug\PLINQ-002.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\PLINQ\PLINQ-002\obj\Debug\002 - Unordered parallel query.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\PLINQ\PLINQ-002\obj\Debug\PLINQ-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\PLINQ\PLINQ-002\obj\Debug\PLINQ-002.pdb

@@ -1,0 +1,5 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-005\bin\Debug\ConcurrentCollection-005.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-005\bin\Debug\ConcurrentCollection-005.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-005\bin\Debug\ConcurrentCollection-005.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-005\obj\Debug\ConcurrentCollection-005.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-005\obj\Debug\ConcurrentCollection-005.pdb

@@ -1,0 +1,9 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Taks-003\bin\Debug\Taks-003.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Taks-003\bin\Debug\Taks-003.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Taks-003\bin\Debug\Taks-003.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Taks-003\obj\Debug\Taks-003.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Taks-003\obj\Debug\Taks-003.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Taks-003\obj\Debug\003 - Adding a continuation.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\Task\Task-003\bin\Debug\Taks-003.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\Task\Task-003\obj\Debug\Taks-003.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\Task\Task-003\obj\Debug\Taks-003.pdb

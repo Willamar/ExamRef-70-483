@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-004\bin\Debug\Task-004.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-004\bin\Debug\Task-004.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-004\bin\Debug\Task-004.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-004\obj\Debug\Task-004.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-004\obj\Debug\Task-004.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-004\obj\Debug\004 - Schelduling different continuation tasks.csprojResolveAssemblyReference.cache

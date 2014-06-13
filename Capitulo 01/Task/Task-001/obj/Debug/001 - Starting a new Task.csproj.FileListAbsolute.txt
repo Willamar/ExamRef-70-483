@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-001\bin\Debug\Task-001.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-001\bin\Debug\Task-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-001\bin\Debug\Task-001.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-001\obj\Debug\001 - Starting a new Task.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-001\obj\Debug\Task-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-001\obj\Debug\Task-001.pdb

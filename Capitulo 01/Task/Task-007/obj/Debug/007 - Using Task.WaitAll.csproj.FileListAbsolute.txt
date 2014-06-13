@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-007\bin\Debug\Task-007.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-007\bin\Debug\Task-007.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-007\bin\Debug\Task-007.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-007\obj\Debug\007 - Using Task.WaitAll.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-007\obj\Debug\Task-007.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Task\Task-007\obj\Debug\Task-007.pdb

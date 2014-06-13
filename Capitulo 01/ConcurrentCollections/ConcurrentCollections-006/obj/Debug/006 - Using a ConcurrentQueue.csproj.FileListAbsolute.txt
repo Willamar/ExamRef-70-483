@@ -1,0 +1,6 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollections-006\bin\Debug\ConcurrentCollections-006.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollections-006\bin\Debug\ConcurrentCollections-006.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollections-006\bin\Debug\ConcurrentCollections-006.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollections-006\obj\Debug\006 - Using a ConcurrentQueue.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollections-006\obj\Debug\ConcurrentCollections-006.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollections-006\obj\Debug\ConcurrentCollections-006.pdb

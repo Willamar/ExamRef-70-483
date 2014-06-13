@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Creating a Thread", "Thread-001\001 - Creating a Thread.csproj", "{9CA19FF4-472A-45F9-A25F-10C8769A4ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Using the ParameterizedThreadStart", "Thread-003\003 - Using the ParameterizedThreadStart.csproj", "{C9B3CD62-D4CD-459D-B282-223B3BB4557C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Stopping a Thread", "Thread-004\004 - Stopping a Thread.csproj", "{A9E3B65E-8F5D-4F9C-B81D-A9BD55409C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Usin the ThreadStaticAttribute", "Thread-005\005 - Usin the ThreadStaticAttribute.csproj", "{9D4638FF-6881-4113-88B0-E31825D20852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Using ThreadLocal", "Thread-006\006 - Using ThreadLocal.csproj", "{FDDC702E-C9C1-43AF-81AE-0E63C5F39F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Using a Backgound Thread", "Thread-002\002 - Using a Backgound Thread.csproj", "{8054283B-5928-49CF-B006-70867BD5E3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 - Queuing some work to the thread pool", "Thread-007\007 - Queuing some work to the thread pool.csproj", "{CCF222D1-FA13-433A-B77D-35778FE428D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA19FF4-472A-45F9-A25F-10C8769A4ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA19FF4-472A-45F9-A25F-10C8769A4ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA19FF4-472A-45F9-A25F-10C8769A4ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA19FF4-472A-45F9-A25F-10C8769A4ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B3CD62-D4CD-459D-B282-223B3BB4557C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B3CD62-D4CD-459D-B282-223B3BB4557C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B3CD62-D4CD-459D-B282-223B3BB4557C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B3CD62-D4CD-459D-B282-223B3BB4557C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E3B65E-8F5D-4F9C-B81D-A9BD55409C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E3B65E-8F5D-4F9C-B81D-A9BD55409C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E3B65E-8F5D-4F9C-B81D-A9BD55409C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E3B65E-8F5D-4F9C-B81D-A9BD55409C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4638FF-6881-4113-88B0-E31825D20852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D4638FF-6881-4113-88B0-E31825D20852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D4638FF-6881-4113-88B0-E31825D20852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D4638FF-6881-4113-88B0-E31825D20852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDC702E-C9C1-43AF-81AE-0E63C5F39F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDC702E-C9C1-43AF-81AE-0E63C5F39F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDC702E-C9C1-43AF-81AE-0E63C5F39F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDC702E-C9C1-43AF-81AE-0E63C5F39F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8054283B-5928-49CF-B006-70867BD5E3C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8054283B-5928-49CF-B006-70867BD5E3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8054283B-5928-49CF-B006-70867BD5E3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8054283B-5928-49CF-B006-70867BD5E3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF222D1-FA13-433A-B77D-35778FE428D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF222D1-FA13-433A-B77D-35778FE428D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF222D1-FA13-433A-B77D-35778FE428D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF222D1-FA13-433A-B77D-35778FE428D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

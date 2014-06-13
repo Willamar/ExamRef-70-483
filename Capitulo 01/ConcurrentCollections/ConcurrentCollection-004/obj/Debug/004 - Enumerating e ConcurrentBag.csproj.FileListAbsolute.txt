@@ -1,0 +1,6 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-004\bin\Debug\ConcurrentCollection-004.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-004\bin\Debug\ConcurrentCollection-004.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-004\bin\Debug\ConcurrentCollection-004.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-004\obj\Debug\004 - Enumerating e ConcurrentBag.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-004\obj\Debug\ConcurrentCollection-004.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-004\obj\Debug\ConcurrentCollection-004.pdb

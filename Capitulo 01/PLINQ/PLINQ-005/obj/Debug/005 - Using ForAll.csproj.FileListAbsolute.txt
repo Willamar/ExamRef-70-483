@@ -1,0 +1,6 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-005\bin\Debug\PLINQ-005.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-005\bin\Debug\PLINQ-005.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-005\bin\Debug\PLINQ-005.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-005\obj\Debug\005 - Using ForAll.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-005\obj\Debug\PLINQ-005.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\PLINQ\PLINQ-005\obj\Debug\PLINQ-005.pdb

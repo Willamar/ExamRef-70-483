@@ -1,0 +1,5 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-002\bin\Debug\AsyncAWait-002.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-002\bin\Debug\AsyncAWait-002.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-002\bin\Debug\AsyncAWait-002.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-002\obj\Debug\AsyncAWait-002.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\AsyncAWait\AsyncAWait-002\obj\Debug\AsyncAWait-002.pdb

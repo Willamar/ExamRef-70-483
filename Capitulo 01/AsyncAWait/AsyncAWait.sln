@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - async and await", "AsyncAWait-001\001 - async and await.csproj", "{F915C4B4-304F-4707-AD1E-EE2D5A154B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Scalability sersus responsiveness", "AsyncAWait-002\002 - Scalability sersus responsiveness.csproj", "{C834FA58-2AA3-422D-B8CF-6180BE168627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Using ConfigureAwait", "AsyncAWait-003\003 - Using ConfigureAwait.csproj", "{57162564-3A75-4CB8-9DFE-0CAD9F871324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAWait-004", "AsyncAWait-004\AsyncAWait-004.csproj", "{EC0C7F8E-4024-4A68-8A64-2647C4386557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F915C4B4-304F-4707-AD1E-EE2D5A154B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F915C4B4-304F-4707-AD1E-EE2D5A154B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F915C4B4-304F-4707-AD1E-EE2D5A154B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F915C4B4-304F-4707-AD1E-EE2D5A154B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C834FA58-2AA3-422D-B8CF-6180BE168627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C834FA58-2AA3-422D-B8CF-6180BE168627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C834FA58-2AA3-422D-B8CF-6180BE168627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C834FA58-2AA3-422D-B8CF-6180BE168627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57162564-3A75-4CB8-9DFE-0CAD9F871324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57162564-3A75-4CB8-9DFE-0CAD9F871324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57162564-3A75-4CB8-9DFE-0CAD9F871324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57162564-3A75-4CB8-9DFE-0CAD9F871324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0C7F8E-4024-4A68-8A64-2647C4386557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0C7F8E-4024-4A68-8A64-2647C4386557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0C7F8E-4024-4A68-8A64-2647C4386557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0C7F8E-4024-4A68-8A64-2647C4386557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

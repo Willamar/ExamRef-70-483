@@ -1,0 +1,6 @@
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-007\bin\Debug\ConcurrentCollection-007.exe.config
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-007\bin\Debug\ConcurrentCollection-007.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-007\bin\Debug\ConcurrentCollection-007.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-007\obj\Debug\ConcurrentCollection-007.exe
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-007\obj\Debug\ConcurrentCollection-007.pdb
+C:\Users\Willamar\Documents\Visual Studio 2012\Projects\ConcurrentCollections\ConcurrentCollection-007\obj\Debug\ConcurrentCollection-007.csprojResolveAssemblyReference.cache
