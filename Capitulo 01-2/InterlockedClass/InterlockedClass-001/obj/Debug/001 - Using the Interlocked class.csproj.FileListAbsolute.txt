@@ -1,0 +1,3 @@
+c:\users\willamar\documents\visual studio 2012\Projects\InterlockedClass\InterlockedClass-001\bin\Debug\InterlockedClass-001.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\InterlockedClass\InterlockedClass-001\obj\Debug\InterlockedClass-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\InterlockedClass\InterlockedClass-001\obj\Debug\InterlockedClass-001.pdb
