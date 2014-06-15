@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Using a CancellationToken", "CancelingTasks-001\001 - Using a CancellationToken.csproj", "{F6B3F60D-2E5C-4389-BE8A-E02E3CD17385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Throwing OperationCanceledException", "CancelingTasks-002\002 - Throwing OperationCanceledException.csproj", "{BF974941-D716-4F06-B662-D4B8A083ACF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Adding a continuation for canceled tasks", "CancelingTasks-003\003 - Adding a continuation for canceled tasks.csproj", "{20C3739C-9745-4003-88E5-F9EE3D7C46B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancelingTasks-004", "CancelingTasks-004\CancelingTasks-004.csproj", "{A84017B3-2D91-4414-9274-0E5889D62CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B3F60D-2E5C-4389-BE8A-E02E3CD17385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B3F60D-2E5C-4389-BE8A-E02E3CD17385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B3F60D-2E5C-4389-BE8A-E02E3CD17385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B3F60D-2E5C-4389-BE8A-E02E3CD17385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF974941-D716-4F06-B662-D4B8A083ACF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF974941-D716-4F06-B662-D4B8A083ACF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF974941-D716-4F06-B662-D4B8A083ACF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF974941-D716-4F06-B662-D4B8A083ACF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C3739C-9745-4003-88E5-F9EE3D7C46B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C3739C-9745-4003-88E5-F9EE3D7C46B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C3739C-9745-4003-88E5-F9EE3D7C46B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C3739C-9745-4003-88E5-F9EE3D7C46B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84017B3-2D91-4414-9274-0E5889D62CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84017B3-2D91-4414-9274-0E5889D62CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84017B3-2D91-4414-9274-0E5889D62CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84017B3-2D91-4414-9274-0E5889D62CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
