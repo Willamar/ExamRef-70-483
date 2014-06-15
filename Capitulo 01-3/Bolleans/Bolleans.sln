@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - A better readble nested if statement", "Bolleans-001\001 - A better readble nested if statement.csproj", "{1B744334-4E40-480A-B21B-4E34D36AD511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Boolean OR operator", "Bolleans-002\002 - Boolean OR operator.csproj", "{66754D19-5007-41CE-AEAC-FD3A13AFFEFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Short-circuting the OR operator", "Bolleans-003\003 - Short-circuting the OR operator.csproj", "{A3F0BE57-748F-438E-9C38-6683C7B9FC56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Using the AND operator", "Booleans-004\004 - Using the AND operator.csproj", "{34828C0F-3B1D-4754-9002-EB5FCA57B8D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Using the AND operator II", "Booleans-005\005 - Using the AND operator II.csproj", "{5D871558-DBA0-4031-967D-C9880227E66A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Using the XOR operator", "Booleans-006\006 - Using the XOR operator.csproj", "{C06ECF9C-F63E-4F36-B003-D458A91A71EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B744334-4E40-480A-B21B-4E34D36AD511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B744334-4E40-480A-B21B-4E34D36AD511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B744334-4E40-480A-B21B-4E34D36AD511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B744334-4E40-480A-B21B-4E34D36AD511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66754D19-5007-41CE-AEAC-FD3A13AFFEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66754D19-5007-41CE-AEAC-FD3A13AFFEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66754D19-5007-41CE-AEAC-FD3A13AFFEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66754D19-5007-41CE-AEAC-FD3A13AFFEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F0BE57-748F-438E-9C38-6683C7B9FC56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F0BE57-748F-438E-9C38-6683C7B9FC56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F0BE57-748F-438E-9C38-6683C7B9FC56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F0BE57-748F-438E-9C38-6683C7B9FC56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34828C0F-3B1D-4754-9002-EB5FCA57B8D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34828C0F-3B1D-4754-9002-EB5FCA57B8D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34828C0F-3B1D-4754-9002-EB5FCA57B8D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34828C0F-3B1D-4754-9002-EB5FCA57B8D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D871558-DBA0-4031-967D-C9880227E66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D871558-DBA0-4031-967D-C9880227E66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D871558-DBA0-4031-967D-C9880227E66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D871558-DBA0-4031-967D-C9880227E66A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06ECF9C-F63E-4F36-B003-D458A91A71EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06ECF9C-F63E-4F36-B003-D458A91A71EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06ECF9C-F63E-4F36-B003-D458A91A71EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06ECF9C-F63E-4F36-B003-D458A91A71EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

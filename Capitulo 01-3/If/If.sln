@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Basic if statement", "If-001\001 - Basic if statement.csproj", "{5258B2BF-35FD-493C-A6D1-1A6C1933C764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - As if statement with code block", "if-002\002 - As if statement with code block.csproj", "{1C29359F-BF53-43F4-A413-51F5097C6772}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Code blocks and scoping", "if-003\003 - Code blocks and scoping.csproj", "{81A8995F-17A4-4956-8920-E8B8E58027C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Using an else statement", "if-004\004 - Using an else statement.csproj", "{4C459FBE-730B-4CB2-80E7-E0BEF78973EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Using multiple if-else statements", "if-005\005 - Using multiple if-else statements.csproj", "{41574636-B93F-4CEB-9836-90C5ABA747BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if-006", "if-006\if-006.csproj", "{0D823CAA-307E-4E11-A640-A699A0838B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5258B2BF-35FD-493C-A6D1-1A6C1933C764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5258B2BF-35FD-493C-A6D1-1A6C1933C764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5258B2BF-35FD-493C-A6D1-1A6C1933C764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5258B2BF-35FD-493C-A6D1-1A6C1933C764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C29359F-BF53-43F4-A413-51F5097C6772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C29359F-BF53-43F4-A413-51F5097C6772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C29359F-BF53-43F4-A413-51F5097C6772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C29359F-BF53-43F4-A413-51F5097C6772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81A8995F-17A4-4956-8920-E8B8E58027C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A8995F-17A4-4956-8920-E8B8E58027C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A8995F-17A4-4956-8920-E8B8E58027C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A8995F-17A4-4956-8920-E8B8E58027C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C459FBE-730B-4CB2-80E7-E0BEF78973EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C459FBE-730B-4CB2-80E7-E0BEF78973EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C459FBE-730B-4CB2-80E7-E0BEF78973EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C459FBE-730B-4CB2-80E7-E0BEF78973EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41574636-B93F-4CEB-9836-90C5ABA747BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41574636-B93F-4CEB-9836-90C5ABA747BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41574636-B93F-4CEB-9836-90C5ABA747BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41574636-B93F-4CEB-9836-90C5ABA747BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D823CAA-307E-4E11-A640-A699A0838B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D823CAA-307E-4E11-A640-A699A0838B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D823CAA-307E-4E11-A640-A699A0838B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D823CAA-307E-4E11-A640-A699A0838B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

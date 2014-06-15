@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Bolleans\Booleans-005\bin\Debug\Booleans-005.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Bolleans\Booleans-005\bin\Debug\Booleans-005.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Bolleans\Booleans-005\bin\Debug\Booleans-005.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Bolleans\Booleans-005\obj\Debug\Booleans-005.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Bolleans\Booleans-005\obj\Debug\Booleans-005.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Bolleans\Booleans-005\obj\Debug\Booleans-005.pdb

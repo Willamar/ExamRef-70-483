@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - The null-coalescing operator", "CoalescingOperator-001\001 - The null-coalescing operator.csproj", "{733A4518-A859-4359-9AD8-16A646342CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Nesting the null-coalescing operator", "CoalescingOperator-002\002 - Nesting the null-coalescing operator.csproj", "{10D1369D-934B-441D-85E7-3D176D9AC848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{733A4518-A859-4359-9AD8-16A646342CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{733A4518-A859-4359-9AD8-16A646342CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{733A4518-A859-4359-9AD8-16A646342CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{733A4518-A859-4359-9AD8-16A646342CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D1369D-934B-441D-85E7-3D176D9AC848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D1369D-934B-441D-85E7-3D176D9AC848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D1369D-934B-441D-85E7-3D176D9AC848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D1369D-934B-441D-85E7-3D176D9AC848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
