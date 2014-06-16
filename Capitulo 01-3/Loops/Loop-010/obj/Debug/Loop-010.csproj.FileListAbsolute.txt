@@ -1,0 +1,5 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Loops\Loop-010\bin\Debug\Loop-010.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Loops\Loop-010\bin\Debug\Loop-010.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Loops\Loop-010\bin\Debug\Loop-010.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Loops\Loop-010\obj\Debug\Loop-010.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Loops\Loop-010\obj\Debug\Loop-010.pdb
