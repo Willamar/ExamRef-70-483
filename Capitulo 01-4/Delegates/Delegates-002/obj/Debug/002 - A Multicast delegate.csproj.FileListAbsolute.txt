@@ -1,0 +1,3 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Delegates\Delegates-002\bin\Debug\Delegates-002.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Delegates\Delegates-002\obj\Debug\Delegates-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Delegates\Delegates-002\obj\Debug\Delegates-002.pdb
