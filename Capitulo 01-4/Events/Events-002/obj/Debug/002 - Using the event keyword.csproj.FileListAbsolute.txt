@@ -1,0 +1,5 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Events\Events-002\bin\Debug\Events-002.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Events\Events-002\bin\Debug\Events-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Events\Events-002\bin\Debug\Events-002.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Events\Events-002\obj\Debug\Events-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Events\Events-002\obj\Debug\Events-002.pdb
