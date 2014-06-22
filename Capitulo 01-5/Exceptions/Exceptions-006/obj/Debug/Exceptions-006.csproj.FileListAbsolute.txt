@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-006\bin\Debug\Exceptions-006.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-006\bin\Debug\Exceptions-006.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-006\bin\Debug\Exceptions-006.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-006\obj\Debug\Exceptions-006.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-006\obj\Debug\Exceptions-006.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-006\obj\Debug\Exceptions-006.pdb

@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-003\bin\Debug\ThrowingExceptions-003.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-003\bin\Debug\ThrowingExceptions-003.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-003\bin\Debug\ThrowingExceptions-003.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-003\obj\Debug\ThrowingExceptions-003.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-003\obj\Debug\ThrowingExceptions-003.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-003\obj\Debug\ThrowingExceptions-003.pdb

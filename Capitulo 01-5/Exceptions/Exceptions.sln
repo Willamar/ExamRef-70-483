@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Parsing an invalid number", "Exceptions-001\001 - Parsing an invalid number.csproj", "{E43E3CAD-7ACD-4BC4-B247-5344A08077B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Catching a FormatException", "Exceptions-002\002 - Catching a FormatException.csproj", "{0F9FCE29-6788-44D1-8AEC-63DEB048DC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Catching different exception types", "Exceptions-003\003 - Catching different exception types.csproj", "{D99D45AD-1DB1-412A-B89F-374F601B3F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Using a finally block", "Exceptions-004\004 - Using a finally block.csproj", "{A205DBE6-F036-4199-A9DB-5E130F9C7158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Using Environment.FailFast", "Exceptions-005\005 - Using Environment.FailFast.csproj", "{1029CEB7-CF17-48CA-B496-FC1C3CF104FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Inspecting an exception", "Exceptions-006\006 - Inspecting an exception.csproj", "{9E816F58-85E4-462C-9720-379C8EE7DF27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43E3CAD-7ACD-4BC4-B247-5344A08077B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43E3CAD-7ACD-4BC4-B247-5344A08077B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43E3CAD-7ACD-4BC4-B247-5344A08077B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43E3CAD-7ACD-4BC4-B247-5344A08077B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9FCE29-6788-44D1-8AEC-63DEB048DC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9FCE29-6788-44D1-8AEC-63DEB048DC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9FCE29-6788-44D1-8AEC-63DEB048DC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9FCE29-6788-44D1-8AEC-63DEB048DC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99D45AD-1DB1-412A-B89F-374F601B3F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99D45AD-1DB1-412A-B89F-374F601B3F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99D45AD-1DB1-412A-B89F-374F601B3F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99D45AD-1DB1-412A-B89F-374F601B3F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A205DBE6-F036-4199-A9DB-5E130F9C7158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A205DBE6-F036-4199-A9DB-5E130F9C7158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A205DBE6-F036-4199-A9DB-5E130F9C7158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A205DBE6-F036-4199-A9DB-5E130F9C7158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1029CEB7-CF17-48CA-B496-FC1C3CF104FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1029CEB7-CF17-48CA-B496-FC1C3CF104FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1029CEB7-CF17-48CA-B496-FC1C3CF104FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1029CEB7-CF17-48CA-B496-FC1C3CF104FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E816F58-85E4-462C-9720-379C8EE7DF27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E816F58-85E4-462C-9720-379C8EE7DF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E816F58-85E4-462C-9720-379C8EE7DF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E816F58-85E4-462C-9720-379C8EE7DF27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

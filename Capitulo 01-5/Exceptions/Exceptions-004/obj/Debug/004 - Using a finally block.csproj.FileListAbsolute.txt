@@ -1,0 +1,3 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-004\bin\Debug\Exceptions-004.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-004\obj\Debug\Exceptions-004.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-004\obj\Debug\Exceptions-004.pdb

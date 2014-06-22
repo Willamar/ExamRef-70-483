@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-001\bin\Debug\Exceptions-001.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-001\bin\Debug\Exceptions-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-001\bin\Debug\Exceptions-001.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-001\obj\Debug\001 - Parsing an invalid number.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-001\obj\Debug\Exceptions-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Exceptions\Exceptions-001\obj\Debug\Exceptions-001.pdb

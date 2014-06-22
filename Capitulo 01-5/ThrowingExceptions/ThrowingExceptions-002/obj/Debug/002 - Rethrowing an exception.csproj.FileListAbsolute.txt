@@ -1,0 +1,3 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-002\bin\Debug\ThrowingExceptions-002.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-002\obj\Debug\ThrowingExceptions-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ThrowingExceptions\ThrowingExceptions-002\obj\Debug\ThrowingExceptions-002.pdb
