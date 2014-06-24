@@ -1,0 +1,5 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-010\bin\Debug\ConsumeTypes-010.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-010\bin\Debug\ConsumeTypes-010.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-010\bin\Debug\ConsumeTypes-010.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-010\obj\Debug\ConsumeTypes-010.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-010\obj\Debug\ConsumeTypes-010.pdb

@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Boxing an integer value", "ConsumeTypes-001\001 - Boxing an integer value.csproj", "{F2BC550C-E846-447D-8F14-F0CDE346BFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Implicity converting an integer to a double", "ConsumeTypes-002\002 - Implicity converting an integer to a double.csproj", "{040F9F46-38CF-452D-94C4-C67D34909E24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Implicity converting an object to a base type", "ConsumeTypes-003\003 - Implicity converting an object to a base type.csproj", "{6E73C836-E60B-4E3C-9FF0-2E76E59F1F74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Casting a double to an int", "ConsumeTypes-004\004 - Casting a double to an int.csproj", "{2F160798-3A45-4103-8879-2D127BC883A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Explicitly casting a base type to a derived type", "ConsumeTypes-005\005 - Explicitly casting a base type to a derived type.csproj", "{B9CB922B-4AB2-4886-B424-FDEA402E345F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Using an implicit and explicit cast operator on a custom type", "ConsumeTypes-006\006 - Using an implicit and explicit cast operator on a custom type.csproj", "{622CA156-6E51-4E0F-AAC0-B0F6760905A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 - Using the built-in Convert and Parse methods", "ConsumeTypes-007\007 - Using the built-in Convert and Parse methods.csproj", "{E9C1A4AA-CF75-4B65-9E1C-4025B490EA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 - Using the is and as operators", "ConsumeTypes-008\008 - Using the is and as operators.csproj", "{3825F261-C1FB-4C6E-BB7E-7C10C1BEA13E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 - Exporting some data to Excel", "ConsumeTypes-009\009 - Exporting some data to Excel.csproj", "{746A9923-EC8E-4D2F-8D28-394FB2A21666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeTypes-010", "ConsumeTypes-010\ConsumeTypes-010.csproj", "{193EC400-A4AD-4032-81C1-4C4ECAC1527F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2BC550C-E846-447D-8F14-F0CDE346BFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BC550C-E846-447D-8F14-F0CDE346BFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BC550C-E846-447D-8F14-F0CDE346BFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BC550C-E846-447D-8F14-F0CDE346BFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040F9F46-38CF-452D-94C4-C67D34909E24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040F9F46-38CF-452D-94C4-C67D34909E24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040F9F46-38CF-452D-94C4-C67D34909E24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040F9F46-38CF-452D-94C4-C67D34909E24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E73C836-E60B-4E3C-9FF0-2E76E59F1F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E73C836-E60B-4E3C-9FF0-2E76E59F1F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E73C836-E60B-4E3C-9FF0-2E76E59F1F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E73C836-E60B-4E3C-9FF0-2E76E59F1F74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F160798-3A45-4103-8879-2D127BC883A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F160798-3A45-4103-8879-2D127BC883A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F160798-3A45-4103-8879-2D127BC883A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F160798-3A45-4103-8879-2D127BC883A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CB922B-4AB2-4886-B424-FDEA402E345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CB922B-4AB2-4886-B424-FDEA402E345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CB922B-4AB2-4886-B424-FDEA402E345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CB922B-4AB2-4886-B424-FDEA402E345F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622CA156-6E51-4E0F-AAC0-B0F6760905A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622CA156-6E51-4E0F-AAC0-B0F6760905A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622CA156-6E51-4E0F-AAC0-B0F6760905A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622CA156-6E51-4E0F-AAC0-B0F6760905A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C1A4AA-CF75-4B65-9E1C-4025B490EA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C1A4AA-CF75-4B65-9E1C-4025B490EA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C1A4AA-CF75-4B65-9E1C-4025B490EA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C1A4AA-CF75-4B65-9E1C-4025B490EA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3825F261-C1FB-4C6E-BB7E-7C10C1BEA13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3825F261-C1FB-4C6E-BB7E-7C10C1BEA13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3825F261-C1FB-4C6E-BB7E-7C10C1BEA13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3825F261-C1FB-4C6E-BB7E-7C10C1BEA13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746A9923-EC8E-4D2F-8D28-394FB2A21666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746A9923-EC8E-4D2F-8D28-394FB2A21666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746A9923-EC8E-4D2F-8D28-394FB2A21666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746A9923-EC8E-4D2F-8D28-394FB2A21666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193EC400-A4AD-4032-81C1-4C4ECAC1527F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193EC400-A4AD-4032-81C1-4C4ECAC1527F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193EC400-A4AD-4032-81C1-4C4ECAC1527F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193EC400-A4AD-4032-81C1-4C4ECAC1527F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-001\bin\Debug\ConsumeTypes-001.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-001\bin\Debug\ConsumeTypes-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-001\bin\Debug\ConsumeTypes-001.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-001\obj\Debug\001 - Boxing an integer value.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-001\obj\Debug\ConsumeTypes-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-001\obj\Debug\ConsumeTypes-001.pdb

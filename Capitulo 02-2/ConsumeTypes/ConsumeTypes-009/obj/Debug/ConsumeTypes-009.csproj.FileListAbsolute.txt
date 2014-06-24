@@ -1,0 +1,7 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-009\bin\Debug\ConsumeTypes-009.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-009\bin\Debug\ConsumeTypes-009.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-009\bin\Debug\ConsumeTypes-009.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-009\obj\Debug\ConsumeTypes-009.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-009\obj\Debug\ConsumeTypes-009.csproj.ResolveComReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-009\obj\Debug\ConsumeTypes-009.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ConsumeTypes\ConsumeTypes-009\obj\Debug\ConsumeTypes-009.pdb
