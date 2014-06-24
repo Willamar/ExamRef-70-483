@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-010\bin\Debug\Types-010.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-010\obj\Debug\Types-010.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-010\bin\Debug\Types-010.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-010\bin\Debug\Types-010.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-010\obj\Debug\Types-010.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-010\obj\Debug\Types-010.pdb

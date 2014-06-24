@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-005\bin\Debug\Types-005.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-005\bin\Debug\Types-005.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-005\bin\Debug\Types-005.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-005\obj\Debug\005 - Using named and optional arguments.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-005\obj\Debug\Types-005.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-005\obj\Debug\Types-005.pdb

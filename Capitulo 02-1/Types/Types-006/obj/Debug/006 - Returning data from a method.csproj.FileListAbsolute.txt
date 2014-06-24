@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-006\bin\Debug\Types-006.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-006\bin\Debug\Types-006.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-006\bin\Debug\Types-006.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-006\obj\Debug\006 - Returning data from a method.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-006\obj\Debug\Types-006.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-006\obj\Debug\Types-006.pdb

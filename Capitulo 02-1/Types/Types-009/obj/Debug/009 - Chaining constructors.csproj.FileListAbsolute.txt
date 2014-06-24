@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-009\bin\Debug\Types-009.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-009\bin\Debug\Types-009.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-009\bin\Debug\Types-009.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-009\obj\Debug\009 - Chaining constructors.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-009\obj\Debug\Types-009.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-009\obj\Debug\Types-009.pdb

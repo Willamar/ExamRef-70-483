@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-001\bin\Debug\Types-001.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-001\obj\Debug\Types-001.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-001\obj\Debug\Types-001.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-001\bin\Debug\Types-001.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-001\bin\Debug\Types-001.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-001\obj\Debug\001 - Using the FlasgAttribute for an enum.csprojResolveAssemblyReference.cache

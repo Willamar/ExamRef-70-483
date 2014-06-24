@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-003\bin\Debug\Types-003.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-003\bin\Debug\Types-003.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-003\bin\Debug\Types-003.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-003\obj\Debug\003 - Malling a method.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-003\obj\Debug\Types-003.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-003\obj\Debug\Types-003.pdb

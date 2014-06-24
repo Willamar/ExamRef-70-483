@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-002\bin\Debug\Types-002.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-002\bin\Debug\Types-002.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-002\bin\Debug\Types-002.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-002\obj\Debug\002 - Creating a cursom struct.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-002\obj\Debug\Types-002.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Types\Types-002\obj\Debug\Types-002.pdb
