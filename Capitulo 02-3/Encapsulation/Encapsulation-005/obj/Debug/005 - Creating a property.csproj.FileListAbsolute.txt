@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-005\bin\Debug\Encapsulation-005.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-005\bin\Debug\Encapsulation-005.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-005\bin\Debug\Encapsulation-005.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-005\obj\Debug\005 - Creating a property.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-005\obj\Debug\Encapsulation-005.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-005\obj\Debug\Encapsulation-005.pdb

@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-004\bin\Debug\Encapsulation-004.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-004\bin\Debug\Encapsulation-004.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-004\bin\Debug\Encapsulation-004.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-004\obj\Debug\004 - Encapsulating a field with custom methods.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-004\obj\Debug\Encapsulation-004.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-004\obj\Debug\Encapsulation-004.pdb

@@ -1,0 +1,3 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-003\bin\Debug\Encapsulation-003.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-003\obj\Debug\Encapsulation-003.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-003\obj\Debug\Encapsulation-003.pdb

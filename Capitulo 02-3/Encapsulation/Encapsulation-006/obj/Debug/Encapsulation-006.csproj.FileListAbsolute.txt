@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-006\bin\Debug\Encapsulation-006.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-006\bin\Debug\Encapsulation-006.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-006\bin\Debug\Encapsulation-006.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-006\obj\Debug\Encapsulation-006.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-006\obj\Debug\Encapsulation-006.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-006\obj\Debug\Encapsulation-006.pdb

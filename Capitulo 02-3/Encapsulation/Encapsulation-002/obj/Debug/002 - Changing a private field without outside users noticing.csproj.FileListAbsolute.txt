@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-002\bin\Debug\Encapsulation-002.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-002\bin\Debug\Encapsulation-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-002\bin\Debug\Encapsulation-002.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-002\obj\Debug\002 - Changing a private field without outside users noticing.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-002\obj\Debug\Encapsulation-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Encapsulation\Encapsulation-002\obj\Debug\Encapsulation-002.pdb
