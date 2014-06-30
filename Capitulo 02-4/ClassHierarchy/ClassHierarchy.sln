@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Creating and implementing an interface", "ClassHierarchy-001\001 - Creating and implementing an interface.csproj", "{B2243314-1144-4B8D-A3C9-8FC4DD0AE444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Adding a set acessor to an implemented interface property", "ClassHierarchy-002\002 - Adding a set acessor to an implemented interface property.csproj", "{52D8A9A0-D566-46A2-909D-EE63C063812E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Creating an interface with a generic type parameter", "ClassHierarchy-003\003 - Creating an interface with a generic type parameter.csproj", "{97AFCCEB-F0E3-4AED-BA78-A5C81B5CE77B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Instantiating a concrete type that implements an interface", "ClassHierarchy-004\004 - Instantiating a concrete type that implements an interface.csproj", "{9DDDF8EE-F595-4A3A-90E4-84757C4A6FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Creating a base class", "ClassHierarchy-005\005 - Creating a base class.csproj", "{1F8D3EF3-9FCB-481E-83F9-897BEB7FD920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Inheriting from a base class", "ClassHierarchy-006\006 - Inheriting from a base class.csproj", "{2B20E024-669A-4D83-8E66-5C82056B5D0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 - Overriding a virtual method", "ClassHierarchy-007\007 - Overriding a virtual method.csproj", "{CF1FF595-C4E6-49E0-ABEF-84CCCF62AF4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 - Hidding a method with the new keyword", "ClassHierarchy-008\008 - Hidding a method with the new keyword.csproj", "{7DAB044C-C612-460A-8107-635FDA2AE835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 - Creating an abstract class", "ClassHierarchy-009\009 - Creating an abstract class.csproj", "{C5AA0E40-3923-4DD2-B9FD-B9F9B4C2C582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 - A Rectangle class with an Area calculation", "ClassHierarchy-010\010 - A Rectangle class with an Area calculation.csproj", "{6EC1795C-2D89-4235-9E0E-EADE6CCE1C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 - A Square class that inherits from Rectangle", "ClassHierarchy-011\011 - A Square class that inherits from Rectangle.csproj", "{97153222-4F2E-41B9-86E9-8C981620759C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 - Implementing the IComparable interface", "ClassHierarchy-012\012 - Implementing the IComparable interface.csproj", "{4F365C38-352D-4DE6-AF9A-6F57ACF5EEAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 - Syntactic sugar of the foreach statement", "ClassHierarchy-013\013 - Syntactic sugar of the foreach statement.csproj", "{1C4E3ED6-EFF2-48FB-AEF2-7B39B36C6784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassHierarchy-014", "ClassHierarchy-014\ClassHierarchy-014.csproj", "{60F2D75B-A648-49B4-B6D5-A771211713DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2243314-1144-4B8D-A3C9-8FC4DD0AE444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2243314-1144-4B8D-A3C9-8FC4DD0AE444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2243314-1144-4B8D-A3C9-8FC4DD0AE444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2243314-1144-4B8D-A3C9-8FC4DD0AE444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D8A9A0-D566-46A2-909D-EE63C063812E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D8A9A0-D566-46A2-909D-EE63C063812E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D8A9A0-D566-46A2-909D-EE63C063812E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D8A9A0-D566-46A2-909D-EE63C063812E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97AFCCEB-F0E3-4AED-BA78-A5C81B5CE77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AFCCEB-F0E3-4AED-BA78-A5C81B5CE77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AFCCEB-F0E3-4AED-BA78-A5C81B5CE77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AFCCEB-F0E3-4AED-BA78-A5C81B5CE77B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDDF8EE-F595-4A3A-90E4-84757C4A6FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDDF8EE-F595-4A3A-90E4-84757C4A6FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDDF8EE-F595-4A3A-90E4-84757C4A6FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDDF8EE-F595-4A3A-90E4-84757C4A6FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8D3EF3-9FCB-481E-83F9-897BEB7FD920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8D3EF3-9FCB-481E-83F9-897BEB7FD920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8D3EF3-9FCB-481E-83F9-897BEB7FD920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8D3EF3-9FCB-481E-83F9-897BEB7FD920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B20E024-669A-4D83-8E66-5C82056B5D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B20E024-669A-4D83-8E66-5C82056B5D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B20E024-669A-4D83-8E66-5C82056B5D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B20E024-669A-4D83-8E66-5C82056B5D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1FF595-C4E6-49E0-ABEF-84CCCF62AF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1FF595-C4E6-49E0-ABEF-84CCCF62AF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1FF595-C4E6-49E0-ABEF-84CCCF62AF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1FF595-C4E6-49E0-ABEF-84CCCF62AF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DAB044C-C612-460A-8107-635FDA2AE835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DAB044C-C612-460A-8107-635FDA2AE835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DAB044C-C612-460A-8107-635FDA2AE835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DAB044C-C612-460A-8107-635FDA2AE835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AA0E40-3923-4DD2-B9FD-B9F9B4C2C582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AA0E40-3923-4DD2-B9FD-B9F9B4C2C582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AA0E40-3923-4DD2-B9FD-B9F9B4C2C582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AA0E40-3923-4DD2-B9FD-B9F9B4C2C582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC1795C-2D89-4235-9E0E-EADE6CCE1C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC1795C-2D89-4235-9E0E-EADE6CCE1C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC1795C-2D89-4235-9E0E-EADE6CCE1C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC1795C-2D89-4235-9E0E-EADE6CCE1C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97153222-4F2E-41B9-86E9-8C981620759C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97153222-4F2E-41B9-86E9-8C981620759C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97153222-4F2E-41B9-86E9-8C981620759C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97153222-4F2E-41B9-86E9-8C981620759C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F365C38-352D-4DE6-AF9A-6F57ACF5EEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F365C38-352D-4DE6-AF9A-6F57ACF5EEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F365C38-352D-4DE6-AF9A-6F57ACF5EEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F365C38-352D-4DE6-AF9A-6F57ACF5EEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4E3ED6-EFF2-48FB-AEF2-7B39B36C6784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4E3ED6-EFF2-48FB-AEF2-7B39B36C6784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4E3ED6-EFF2-48FB-AEF2-7B39B36C6784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4E3ED6-EFF2-48FB-AEF2-7B39B36C6784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F2D75B-A648-49B4-B6D5-A771211713DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F2D75B-A648-49B4-B6D5-A771211713DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F2D75B-A648-49B4-B6D5-A771211713DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F2D75B-A648-49B4-B6D5-A771211713DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-009\bin\Debug\ClassHierarchy-009.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-009\bin\Debug\ClassHierarchy-009.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-009\bin\Debug\ClassHierarchy-009.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-009\obj\Debug\009 - Creating an abstract class.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-009\obj\Debug\ClassHierarchy-009.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-009\obj\Debug\ClassHierarchy-009.pdb

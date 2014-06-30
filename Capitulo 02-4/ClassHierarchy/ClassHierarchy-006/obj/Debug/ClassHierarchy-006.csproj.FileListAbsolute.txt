@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-006\bin\Debug\ClassHierarchy-006.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-006\obj\Debug\ClassHierarchy-006.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-006\bin\Debug\ClassHierarchy-006.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-006\bin\Debug\ClassHierarchy-006.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-006\obj\Debug\ClassHierarchy-006.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-006\obj\Debug\ClassHierarchy-006.pdb

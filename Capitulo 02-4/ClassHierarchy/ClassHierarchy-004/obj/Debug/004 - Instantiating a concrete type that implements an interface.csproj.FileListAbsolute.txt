@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-004\bin\Debug\ClassHierarchy-004.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-004\bin\Debug\ClassHierarchy-004.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-004\bin\Debug\ClassHierarchy-004.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-004\obj\Debug\004 - Instantiating a concrete type that implements an interface.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-004\obj\Debug\ClassHierarchy-004.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-004\obj\Debug\ClassHierarchy-004.pdb

@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-005\bin\Debug\ClassHierarchy-005.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-005\bin\Debug\ClassHierarchy-005.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-005\bin\Debug\ClassHierarchy-005.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-005\obj\Debug\005 - Creating a base class.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-005\obj\Debug\ClassHierarchy-005.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ClassHierarchy\ClassHierarchy-005\obj\Debug\ClassHierarchy-005.pdb
