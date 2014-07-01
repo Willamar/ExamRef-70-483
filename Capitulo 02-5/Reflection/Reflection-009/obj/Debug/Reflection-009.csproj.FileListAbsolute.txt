@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-009\bin\Debug\Reflection-009.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-009\bin\Debug\Reflection-009.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-009\bin\Debug\Reflection-009.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-009\obj\Debug\Reflection-009.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-009\obj\Debug\Reflection-009.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-009\obj\Debug\Reflection-009.pdb

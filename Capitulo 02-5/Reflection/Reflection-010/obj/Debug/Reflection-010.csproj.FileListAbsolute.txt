@@ -1,0 +1,5 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-010\bin\Debug\Reflection-010.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-010\bin\Debug\Reflection-010.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-010\bin\Debug\Reflection-010.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-010\obj\Debug\Reflection-010.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Reflection\Reflection-010\obj\Debug\Reflection-010.pdb

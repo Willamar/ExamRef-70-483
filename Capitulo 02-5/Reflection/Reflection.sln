@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Applying an attribute", "Reflection-001\001 - Applying an attribute.csproj", "{52156388-8228-43DA-9FD8-1453F5D79445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Seeing wheter an attribute is defined", "Reflection-002\002 - Seeing wheter an attribute is defined.csproj", "{D019B7D4-BA99-4A6B-AF76-886E361F2BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Getting a specific attribute instance", "Reflection-003\003 - Getting a specific attribute instance.csproj", "{35E01688-F8AE-402F-93B7-CDF84451A271}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Defining the targets for a custom attribute", "Reflection-004\004 - Defining the targets for a custom attribute.csproj", "{A00E1E89-D930-4A52-AD5B-4CB5604C8BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Adding properties to a custom attribute", "Reflection-005\005 - Adding properties to a custom attribute.csproj", "{B25F1F0E-1975-4894-BB0D-BF6CF7B8E7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Creating an interface that can be found through reflection", "Reflection-006\006 - Creating an interface that can be found through reflection.csproj", "{F5A4A1DF-9AC7-4BDA-BA9C-4C97C2FA63F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 - Creating a custom plug-in class", "Reflection-007\007 - Creating a custom plug-in class.csproj", "{1714A787-878C-405F-B522-11F35A3590E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 - Inspecting an assembly for types that implement a custom interface", "Reflection-008\008 - Inspecting an assembly for types that implement a custom interface.csproj", "{EC98E602-D1BD-4BE9-9992-40603046EC36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 - Getting the value of a field through reflection", "Reflection-009\009 - Getting the value of a field through reflection.csproj", "{93D89581-EEFE-4AD3-9967-B78DF03D1964}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 - Executing a method through reflection", "Reflection-010\010 - Executing a method through reflection.csproj", "{C18048E1-B6A4-4D56-BD2C-24C4FFC254DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 - Generating a source file from a CodeComplieUnit", "Reflection-011\011 - Generating a source file from a CodeComplieUnit.csproj", "{F544A2B9-7763-4353-96BD-0DB82BE9DE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 - Creating a Func type with a lambda", "Reflection-012\012 - Creating a Func type with a lambda.csproj", "{CCEAFAC1-8604-458E-A116-0133A82797B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection-013", "Reflection-013\Reflection-013.csproj", "{2498D375-5138-4778-BA4D-298BDF1F6E47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52156388-8228-43DA-9FD8-1453F5D79445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52156388-8228-43DA-9FD8-1453F5D79445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52156388-8228-43DA-9FD8-1453F5D79445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52156388-8228-43DA-9FD8-1453F5D79445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D019B7D4-BA99-4A6B-AF76-886E361F2BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D019B7D4-BA99-4A6B-AF76-886E361F2BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D019B7D4-BA99-4A6B-AF76-886E361F2BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D019B7D4-BA99-4A6B-AF76-886E361F2BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E01688-F8AE-402F-93B7-CDF84451A271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E01688-F8AE-402F-93B7-CDF84451A271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E01688-F8AE-402F-93B7-CDF84451A271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E01688-F8AE-402F-93B7-CDF84451A271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A00E1E89-D930-4A52-AD5B-4CB5604C8BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00E1E89-D930-4A52-AD5B-4CB5604C8BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00E1E89-D930-4A52-AD5B-4CB5604C8BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00E1E89-D930-4A52-AD5B-4CB5604C8BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B25F1F0E-1975-4894-BB0D-BF6CF7B8E7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B25F1F0E-1975-4894-BB0D-BF6CF7B8E7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B25F1F0E-1975-4894-BB0D-BF6CF7B8E7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B25F1F0E-1975-4894-BB0D-BF6CF7B8E7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5A4A1DF-9AC7-4BDA-BA9C-4C97C2FA63F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A4A1DF-9AC7-4BDA-BA9C-4C97C2FA63F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A4A1DF-9AC7-4BDA-BA9C-4C97C2FA63F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A4A1DF-9AC7-4BDA-BA9C-4C97C2FA63F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1714A787-878C-405F-B522-11F35A3590E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1714A787-878C-405F-B522-11F35A3590E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1714A787-878C-405F-B522-11F35A3590E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1714A787-878C-405F-B522-11F35A3590E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC98E602-D1BD-4BE9-9992-40603046EC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC98E602-D1BD-4BE9-9992-40603046EC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC98E602-D1BD-4BE9-9992-40603046EC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC98E602-D1BD-4BE9-9992-40603046EC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93D89581-EEFE-4AD3-9967-B78DF03D1964}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D89581-EEFE-4AD3-9967-B78DF03D1964}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D89581-EEFE-4AD3-9967-B78DF03D1964}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D89581-EEFE-4AD3-9967-B78DF03D1964}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C18048E1-B6A4-4D56-BD2C-24C4FFC254DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18048E1-B6A4-4D56-BD2C-24C4FFC254DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18048E1-B6A4-4D56-BD2C-24C4FFC254DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18048E1-B6A4-4D56-BD2C-24C4FFC254DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F544A2B9-7763-4353-96BD-0DB82BE9DE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F544A2B9-7763-4353-96BD-0DB82BE9DE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F544A2B9-7763-4353-96BD-0DB82BE9DE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F544A2B9-7763-4353-96BD-0DB82BE9DE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEAFAC1-8604-458E-A116-0133A82797B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEAFAC1-8604-458E-A116-0133A82797B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEAFAC1-8604-458E-A116-0133A82797B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEAFAC1-8604-458E-A116-0133A82797B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2498D375-5138-4778-BA4D-298BDF1F6E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2498D375-5138-4778-BA4D-298BDF1F6E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2498D375-5138-4778-BA4D-298BDF1F6E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2498D375-5138-4778-BA4D-298BDF1F6E47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
