@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\GarbageCollection\GarbageCollection-001\bin\Debug\GarbageCollection-001.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\GarbageCollection\GarbageCollection-001\bin\Debug\GarbageCollection-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\GarbageCollection\GarbageCollection-001\bin\Debug\GarbageCollection-001.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\GarbageCollection\GarbageCollection-001\obj\Debug\GarbageCollection-001.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\GarbageCollection\GarbageCollection-001\obj\Debug\GarbageCollection-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\GarbageCollection\GarbageCollection-001\obj\Debug\GarbageCollection-001.pdb
