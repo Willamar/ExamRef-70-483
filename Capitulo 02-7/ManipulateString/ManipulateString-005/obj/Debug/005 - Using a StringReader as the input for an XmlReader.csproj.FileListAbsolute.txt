@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-005\bin\Debug\ManipulateString-005.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-005\bin\Debug\ManipulateString-005.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-005\bin\Debug\ManipulateString-005.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-005\obj\Debug\005 - Using a StringReader as the input for an XmlReader.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-005\obj\Debug\ManipulateString-005.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-005\obj\Debug\ManipulateString-005.pdb

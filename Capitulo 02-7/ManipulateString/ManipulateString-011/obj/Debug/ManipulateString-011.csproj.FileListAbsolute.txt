@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-011\bin\Debug\ManipulateString-011.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-011\bin\Debug\ManipulateString-011.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-011\bin\Debug\ManipulateString-011.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-011\obj\Debug\ManipulateString-011.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-011\obj\Debug\ManipulateString-011.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-011\obj\Debug\ManipulateString-011.pdb

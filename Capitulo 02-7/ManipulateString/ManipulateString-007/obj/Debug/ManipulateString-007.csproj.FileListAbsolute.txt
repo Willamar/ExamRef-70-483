@@ -1,0 +1,5 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-007\bin\Debug\ManipulateString-007.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-007\bin\Debug\ManipulateString-007.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-007\bin\Debug\ManipulateString-007.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-007\obj\Debug\ManipulateString-007.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-007\obj\Debug\ManipulateString-007.pdb

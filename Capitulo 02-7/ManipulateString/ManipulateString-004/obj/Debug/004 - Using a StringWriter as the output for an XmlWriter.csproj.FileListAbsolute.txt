@@ -1,0 +1,3 @@
+c:\users\willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-004\bin\Debug\ManipulateString-004.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-004\obj\Debug\ManipulateString-004.exe
+c:\users\willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-004\obj\Debug\ManipulateString-004.pdb

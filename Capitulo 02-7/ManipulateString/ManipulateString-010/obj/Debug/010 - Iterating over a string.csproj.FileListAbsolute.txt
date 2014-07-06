@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-010\bin\Debug\ManipulateString-010.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-010\bin\Debug\ManipulateString-010.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-010\bin\Debug\ManipulateString-010.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-010\obj\Debug\010 - Iterating over a string.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-010\obj\Debug\ManipulateString-010.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\ManipulateString\ManipulateString-010\obj\Debug\ManipulateString-010.pdb
