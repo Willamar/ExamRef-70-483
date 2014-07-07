@@ -1,0 +1,10 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\bin\Debug\Chapter3.01-001.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\bin\Debug\Chapter3.01-001.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\bin\Debug\Chapter3.01-001.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\bin\Debug\EntityFramework.dll
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\bin\Debug\EntityFramework.xml
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\obj\Debug\001 - Saving a new customer to the database.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\obj\Debug\Chapter3.01-001.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.01-001\obj\Debug\Chapter3.01-001.pdb

@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-008\bin\Debug\Chapter3.1-008.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-008\bin\Debug\Chapter3.1-008.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-008\bin\Debug\Chapter3.1-008.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-008\obj\Debug\008 - Validate a Zip Code with a regular expression.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-008\obj\Debug\Chapter3.1-008.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-008\obj\Debug\Chapter3.1-008.pdb

@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-003\bin\Debug\Chapter3.1-003.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-003\bin\Debug\Chapter3.1-003.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-003\bin\Debug\Chapter3.1-003.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-003\obj\Debug\003 - Using TryParse.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-003\obj\Debug\Chapter3.1-003.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-003\obj\Debug\Chapter3.1-003.pdb

@@ -1,0 +1,5 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-006\bin\Debug\Chapter3.1-006.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-006\bin\Debug\Chapter3.1-006.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-006\bin\Debug\Chapter3.1-006.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-006\obj\Debug\Chapter3.1-006.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.1\Chapter3.1-006\obj\Debug\Chapter3.1-006.pdb

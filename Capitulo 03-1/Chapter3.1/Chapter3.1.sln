@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Saving a new customer to the database", "Chapter3.01-001\001 - Saving a new customer to the database.csproj", "{883B0745-426F-4436-BD57-3DFC7B45DB0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Using Parse", "Chapter3.1-002\002 - Using Parse.csproj", "{630F74AC-8B73-465C-BB6E-A0E4F82691FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Using TryParse", "Chapter3.1-003\003 - Using TryParse.csproj", "{C067901E-02B7-4261-87E8-B87F4B548372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Using configuration options when parsing a number", "Chapter3.1-004\004 - Using configuration options when parsing a number.csproj", "{E1139BBF-94C1-46F4-8040-47A4E57C0D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Using Convert with a null value", "Chapter3.1-005\005 - Using Convert with a null value.csproj", "{3B66BACD-750A-41B5-A616-14B99D1A8E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Using Convert to convert from double to int", "Chapter3.1-006\006 - Using Convert to convert from double to int.csproj", "{B59F75B9-ABE9-4B28-80C2-DF5E9A25DD9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 - Manually validating a ZIP Code", "Chapter3.1-007\007 - Manually validating a ZIP Code.csproj", "{9FADB77E-10F8-4C0C-8689-AB69D61C5985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 - Validate a Zip Code with a regular expression", "Chapter3.1-008\008 - Validate a Zip Code with a regular expression.csproj", "{CD1D8564-442B-44F9-9BBD-C581321FDA0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 - Validate a ZIP Code with a regular expression", "Chapter3.1-009\009 - Validate a ZIP Code with a regular expression.csproj", "{347489C3-E08D-4543-A531-A420D1F0ADD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 - Seeing wheter a string contains potential JSON data", "Chapter3.1-010\010 - Seeing wheter a string contains potential JSON data.csproj", "{3929AC25-65CA-4ABB-9EAA-D5BDC70EF595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 - Deserializing an object with the JavaScriptSerializer", "Chapter3.1-011\011 - Deserializing an object with the JavaScriptSerializer.csproj", "{E8D00CDF-6117-460D-920D-05FBB93534B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{883B0745-426F-4436-BD57-3DFC7B45DB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883B0745-426F-4436-BD57-3DFC7B45DB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883B0745-426F-4436-BD57-3DFC7B45DB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883B0745-426F-4436-BD57-3DFC7B45DB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630F74AC-8B73-465C-BB6E-A0E4F82691FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630F74AC-8B73-465C-BB6E-A0E4F82691FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630F74AC-8B73-465C-BB6E-A0E4F82691FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630F74AC-8B73-465C-BB6E-A0E4F82691FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C067901E-02B7-4261-87E8-B87F4B548372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C067901E-02B7-4261-87E8-B87F4B548372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C067901E-02B7-4261-87E8-B87F4B548372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C067901E-02B7-4261-87E8-B87F4B548372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1139BBF-94C1-46F4-8040-47A4E57C0D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1139BBF-94C1-46F4-8040-47A4E57C0D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1139BBF-94C1-46F4-8040-47A4E57C0D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1139BBF-94C1-46F4-8040-47A4E57C0D33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B66BACD-750A-41B5-A616-14B99D1A8E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B66BACD-750A-41B5-A616-14B99D1A8E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B66BACD-750A-41B5-A616-14B99D1A8E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B66BACD-750A-41B5-A616-14B99D1A8E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59F75B9-ABE9-4B28-80C2-DF5E9A25DD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59F75B9-ABE9-4B28-80C2-DF5E9A25DD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59F75B9-ABE9-4B28-80C2-DF5E9A25DD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59F75B9-ABE9-4B28-80C2-DF5E9A25DD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FADB77E-10F8-4C0C-8689-AB69D61C5985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FADB77E-10F8-4C0C-8689-AB69D61C5985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FADB77E-10F8-4C0C-8689-AB69D61C5985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FADB77E-10F8-4C0C-8689-AB69D61C5985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD1D8564-442B-44F9-9BBD-C581321FDA0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD1D8564-442B-44F9-9BBD-C581321FDA0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD1D8564-442B-44F9-9BBD-C581321FDA0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD1D8564-442B-44F9-9BBD-C581321FDA0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{347489C3-E08D-4543-A531-A420D1F0ADD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{347489C3-E08D-4543-A531-A420D1F0ADD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{347489C3-E08D-4543-A531-A420D1F0ADD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{347489C3-E08D-4543-A531-A420D1F0ADD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3929AC25-65CA-4ABB-9EAA-D5BDC70EF595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3929AC25-65CA-4ABB-9EAA-D5BDC70EF595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3929AC25-65CA-4ABB-9EAA-D5BDC70EF595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3929AC25-65CA-4ABB-9EAA-D5BDC70EF595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D00CDF-6117-460D-920D-05FBB93534B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D00CDF-6117-460D-920D-05FBB93534B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D00CDF-6117-460D-920D-05FBB93534B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D00CDF-6117-460D-920D-05FBB93534B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
