@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.2\Chapter3.2-010\bin\Debug\Chapter3.2-010.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.2\Chapter3.2-010\bin\Debug\Chapter3.2-010.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.2\Chapter3.2-010\bin\Debug\Chapter3.2-010.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.2\Chapter3.2-010\obj\Debug\Chapter3.2-010.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.2\Chapter3.2-010\obj\Debug\Chapter3.2-010.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.2\Chapter3.2-010\obj\Debug\Chapter3.2-010.pdb
