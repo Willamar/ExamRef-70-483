@@ -1,0 +1,3 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-005\bin\Debug\Chapter3.4-005.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-005\obj\Debug\Chapter3.4-005.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-005\obj\Debug\Chapter3.4-005.pdb

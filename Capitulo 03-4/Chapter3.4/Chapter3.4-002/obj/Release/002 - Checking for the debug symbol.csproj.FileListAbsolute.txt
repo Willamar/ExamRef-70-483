@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-002\bin\Release\Chapter3.4-002.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-002\bin\Release\Chapter3.4-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-002\bin\Release\Chapter3.4-002.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-002\obj\Release\002 - Checking for the debug symbol.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-002\obj\Release\Chapter3.4-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter3.4\Chapter3.4-002\obj\Release\Chapter3.4-002.pdb

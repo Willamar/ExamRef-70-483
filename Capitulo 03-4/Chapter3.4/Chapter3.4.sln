@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - A simple console application", "Chapter3.4-001\001 - A simple console application.csproj", "{DFDEBEAC-5DF2-4F9D-923C-05FEB9500700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Checking for the debug symbol", "Chapter3.4-002\002 - Checking for the debug symbol.csproj", "{57030F92-B1DD-4834-9EC1-E99E3ECF2F7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Defining a custom symbol", "Chapter3.4-003\003 - Defining a custom symbol.csproj", "{1DDB2A55-D910-402F-9759-C267DAAA712E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Using preprocessor directives to target multiple platforms", "Chapter3.4-004\004 - Using preprocessor directives to target multiple platforms.csproj", "{FC8009ED-860F-41DA-AE07-EDC0F61A2995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Applying the ConditionalAttribute", "Chapter3.4-005\005 - Applying the ConditionalAttribute.csproj", "{49251C1C-7468-4625-9137-279FD96218DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Applying the DebuggerDisplayAttribute", "Chapter3.4-006\006 - Applying the DebuggerDisplayAttribute.csproj", "{3F7DE759-BE9F-4165-8506-90692F92C696}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFDEBEAC-5DF2-4F9D-923C-05FEB9500700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDEBEAC-5DF2-4F9D-923C-05FEB9500700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDEBEAC-5DF2-4F9D-923C-05FEB9500700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDEBEAC-5DF2-4F9D-923C-05FEB9500700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57030F92-B1DD-4834-9EC1-E99E3ECF2F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57030F92-B1DD-4834-9EC1-E99E3ECF2F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57030F92-B1DD-4834-9EC1-E99E3ECF2F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57030F92-B1DD-4834-9EC1-E99E3ECF2F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DDB2A55-D910-402F-9759-C267DAAA712E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDB2A55-D910-402F-9759-C267DAAA712E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDB2A55-D910-402F-9759-C267DAAA712E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDB2A55-D910-402F-9759-C267DAAA712E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC8009ED-860F-41DA-AE07-EDC0F61A2995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8009ED-860F-41DA-AE07-EDC0F61A2995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8009ED-860F-41DA-AE07-EDC0F61A2995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8009ED-860F-41DA-AE07-EDC0F61A2995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49251C1C-7468-4625-9137-279FD96218DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49251C1C-7468-4625-9137-279FD96218DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49251C1C-7468-4625-9137-279FD96218DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49251C1C-7468-4625-9137-279FD96218DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7DE759-BE9F-4165-8506-90692F92C696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7DE759-BE9F-4165-8506-90692F92C696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7DE759-BE9F-4165-8506-90692F92C696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7DE759-BE9F-4165-8506-90692F92C696}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
