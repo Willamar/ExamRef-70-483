@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - Using the Debug class", "Chapter3.5-001\001 - Using the Debug class.csproj", "{8D4856C7-D771-455E-95BE-9DE3568F8E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - Using the TraceSource class", "Chapter3.5-002\002 - Using the TraceSource class.csproj", "{BA92C926-E62D-4862-9A7F-6489D1FB3F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - Configuring TraceListener", "Chapter3.5-003\003 - Configuring TraceListener.csproj", "{56865B73-CE22-438D-8536-396FE3C9A776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - Writing data to the event log", "Chapter3.5-004\004 - Writing data to the event log.csproj", "{FDEEFE98-CA8F-47A3-B887-C6FE4D7CA507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - Reading data from the event log", "Chapter3.5-005\005 - Reading data from the event log.csproj", "{6F41D1BF-8AA8-4258-9A9B-6EAD1B81EB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - Writing data to the event log", "Chapter3.5-006\006 - Writing data to the event log.csproj", "{A3C83A65-9083-4AAB-949D-900C898F7817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 - Using the StopWatch class", "Chapter3.5-007\007 - Using the StopWatch class.csproj", "{165C720F-C9A5-474E-8CD6-862654FBBA5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 - Reading data from a performance counter", "Chapter3.5-008\008 - Reading data from a performance counter.csproj", "{989629A1-A467-40BE-A396-E3C93536D780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 - Reading data from a performance counter", "Chapter3.5-009\009 - Reading data from a performance counter.csproj", "{AAE7822F-A934-4768-A3A8-21F323432C97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D4856C7-D771-455E-95BE-9DE3568F8E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4856C7-D771-455E-95BE-9DE3568F8E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4856C7-D771-455E-95BE-9DE3568F8E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4856C7-D771-455E-95BE-9DE3568F8E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA92C926-E62D-4862-9A7F-6489D1FB3F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA92C926-E62D-4862-9A7F-6489D1FB3F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA92C926-E62D-4862-9A7F-6489D1FB3F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA92C926-E62D-4862-9A7F-6489D1FB3F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56865B73-CE22-438D-8536-396FE3C9A776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56865B73-CE22-438D-8536-396FE3C9A776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56865B73-CE22-438D-8536-396FE3C9A776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56865B73-CE22-438D-8536-396FE3C9A776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEEFE98-CA8F-47A3-B887-C6FE4D7CA507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEEFE98-CA8F-47A3-B887-C6FE4D7CA507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEEFE98-CA8F-47A3-B887-C6FE4D7CA507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEEFE98-CA8F-47A3-B887-C6FE4D7CA507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F41D1BF-8AA8-4258-9A9B-6EAD1B81EB64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F41D1BF-8AA8-4258-9A9B-6EAD1B81EB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F41D1BF-8AA8-4258-9A9B-6EAD1B81EB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F41D1BF-8AA8-4258-9A9B-6EAD1B81EB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C83A65-9083-4AAB-949D-900C898F7817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C83A65-9083-4AAB-949D-900C898F7817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C83A65-9083-4AAB-949D-900C898F7817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C83A65-9083-4AAB-949D-900C898F7817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165C720F-C9A5-474E-8CD6-862654FBBA5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165C720F-C9A5-474E-8CD6-862654FBBA5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165C720F-C9A5-474E-8CD6-862654FBBA5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165C720F-C9A5-474E-8CD6-862654FBBA5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{989629A1-A467-40BE-A396-E3C93536D780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989629A1-A467-40BE-A396-E3C93536D780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989629A1-A467-40BE-A396-E3C93536D780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989629A1-A467-40BE-A396-E3C93536D780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE7822F-A934-4768-A3A8-21F323432C97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE7822F-A934-4768-A3A8-21F323432C97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE7822F-A934-4768-A3A8-21F323432C97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE7822F-A934-4768-A3A8-21F323432C97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

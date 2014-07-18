@@ -1,0 +1,5 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-007\bin\Debug\Chapter4.1-007.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-007\bin\Debug\Chapter4.1-007.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-007\bin\Debug\Chapter4.1-007.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-007\obj\Debug\Chapter4.1-007.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-007\obj\Debug\Chapter4.1-007.pdb

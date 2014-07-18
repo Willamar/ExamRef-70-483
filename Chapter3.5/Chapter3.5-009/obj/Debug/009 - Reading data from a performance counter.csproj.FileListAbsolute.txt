@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.5\Chapter3.5-009\bin\Debug\Chapter3.5-009.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.5\Chapter3.5-009\bin\Debug\Chapter3.5-009.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.5\Chapter3.5-009\bin\Debug\Chapter3.5-009.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.5\Chapter3.5-009\obj\Debug\Chapter3.5-009.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.5\Chapter3.5-009\obj\Debug\Chapter3.5-009.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter3.5\Chapter3.5-009\obj\Debug\009 - Reading data from a performance counter.csprojResolveAssemblyReference.cache

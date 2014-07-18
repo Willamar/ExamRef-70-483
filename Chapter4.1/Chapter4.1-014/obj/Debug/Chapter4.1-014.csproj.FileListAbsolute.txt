@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-014\bin\Debug\Chapter4.1-014.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-014\bin\Debug\Chapter4.1-014.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-014\bin\Debug\Chapter4.1-014.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-014\obj\Debug\Chapter4.1-014.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-014\obj\Debug\Chapter4.1-014.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.1\Chapter4.1-014\obj\Debug\Chapter4.1-014.pdb
