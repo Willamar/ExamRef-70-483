@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-003\bin\Debug\Chapter4.2-003.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-003\bin\Debug\Chapter4.2-003.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-003\bin\Debug\Chapter4.2-003.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-003\obj\Debug\003 - Using a connection string from an external configuration file.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-003\obj\Debug\Chapter4.2-003.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-003\obj\Debug\Chapter4.2-003.pdb

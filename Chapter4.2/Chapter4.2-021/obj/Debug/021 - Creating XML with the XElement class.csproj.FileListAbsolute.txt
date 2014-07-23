@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-021\bin\Debug\Chapter4.2-021.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-021\bin\Debug\Chapter4.2-021.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-021\bin\Debug\Chapter4.2-021.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-021\obj\Debug\021 - Creating XML with the XElement class.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-021\obj\Debug\Chapter4.2-021.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-021\obj\Debug\Chapter4.2-021.pdb

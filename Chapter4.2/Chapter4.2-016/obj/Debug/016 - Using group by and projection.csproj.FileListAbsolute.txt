@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-016\bin\Debug\Chapter4.2-016.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-016\bin\Debug\Chapter4.2-016.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-016\bin\Debug\Chapter4.2-016.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-016\obj\Debug\016 - Using group by and projection.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-016\obj\Debug\Chapter4.2-016.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-016\obj\Debug\Chapter4.2-016.pdb

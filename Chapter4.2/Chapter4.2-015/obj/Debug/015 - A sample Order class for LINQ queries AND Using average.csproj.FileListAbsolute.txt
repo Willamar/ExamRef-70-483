@@ -1,0 +1,6 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-015\bin\Debug\Chapter4.2-015.exe.config
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-015\bin\Debug\Chapter4.2-015.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-015\bin\Debug\Chapter4.2-015.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-015\obj\Debug\015 - A sample Order class for LINQ queries AND Using average.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-015\obj\Debug\Chapter4.2-015.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.2\Chapter4.2-015\obj\Debug\Chapter4.2-015.pdb
