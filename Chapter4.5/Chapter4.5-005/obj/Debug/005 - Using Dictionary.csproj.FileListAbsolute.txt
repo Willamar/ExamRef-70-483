@@ -1,0 +1,2 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.5\Chapter4.5-005\obj\Debug\Chapter4.5-005.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.5\Chapter4.5-005\obj\Debug\Chapter4.5-005.pdb

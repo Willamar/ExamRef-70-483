@@ -1,0 +1,5 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.5\Chapter4.5-008\bin\Debug\Chapter4.5-008.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.5\Chapter4.5-008\bin\Debug\Chapter4.5-008.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.5\Chapter4.5-008\obj\Debug\Chapter4.5-008.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.5\Chapter4.5-008\obj\Debug\Chapter4.5-008.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.5\Chapter4.5-008\obj\Debug\Chapter4.5-008.pdb
