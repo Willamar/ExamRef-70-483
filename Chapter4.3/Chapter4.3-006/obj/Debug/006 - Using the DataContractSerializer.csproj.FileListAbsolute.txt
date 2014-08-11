@@ -1,0 +1,1 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-006\obj\Debug\006 - Using the DataContractSerializer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-001\bin\Debug\Chapter4.3-001.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-001\obj\Debug\Chapter4.3-001.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-001\obj\Debug\Chapter4.3-001.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-001\bin\Debug\Chapter4.3-001.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-001\bin\Debug\Chapter4.3-001.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-001\obj\Debug\001 - Serializing an object with XmlSerializer.csprojResolveAssemblyReference.cache

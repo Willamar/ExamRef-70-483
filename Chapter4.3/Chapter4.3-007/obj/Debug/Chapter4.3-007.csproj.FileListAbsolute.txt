@@ -1,0 +1,5 @@
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-007\obj\Debug\Chapter4.3-007.csprojResolveAssemblyReference.cache
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-007\bin\Debug\Chapter4.3-007.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-007\bin\Debug\Chapter4.3-007.pdb
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-007\obj\Debug\Chapter4.3-007.exe
+C:\Users\Willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-007\obj\Debug\Chapter4.3-007.pdb

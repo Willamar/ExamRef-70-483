@@ -1,0 +1,6 @@
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-002\bin\Debug\Chapter4.3-002.exe.config
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-002\bin\Debug\Chapter4.3-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-002\bin\Debug\Chapter4.3-002.pdb
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-002\obj\Debug\002 - Using the XML Attributes to configure serialization.csprojResolveAssemblyReference.cache
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-002\obj\Debug\Chapter4.3-002.exe
+c:\users\willamar\documents\visual studio 2012\Projects\Chapter4.3\Chapter4.3-002\obj\Debug\Chapter4.3-002.pdb
